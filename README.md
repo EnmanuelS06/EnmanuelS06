@@ -1,7 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Enmanuel!! 👋
+
+<img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api?username=EnmanuelS06&show_icons=true&theme=radical" >
+
+<img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnmanuelS06&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
+
 
 <!--
 **EnmanuelS06/EnmanuelS06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
